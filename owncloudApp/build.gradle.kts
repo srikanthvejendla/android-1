@@ -1,2 +1,2 @@
-val appVersionCode: Int     = 23123001
-val appVersionName: String  = "23.12.30"
+val appVersionCode: Int     = 23131001
+val appVersionName: String  = "23.13.10"
